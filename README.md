@@ -35,9 +35,7 @@ chrome extension improving web accessibility. led cross-functional team from con
 ---
 
 ## experience
- ✿
 ✿✿✿
- ✿
 
 **ama earth group** (jan – aug 2025)  
 backend & frontend work | reduced api latency ~15% | improved core web vitals 69→74 | +30% session duration
